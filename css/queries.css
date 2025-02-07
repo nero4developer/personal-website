@@ -83,7 +83,7 @@
     width: 60%;
   }
 
-  .delivered-meals {
+  .delivered-problogss {
     justify-content: center;
     margin-top: 3.2rem;
   }
@@ -96,7 +96,7 @@
     font-size: 7.4rem;
   }
 
-  .meal-content {
+  .problogs-content {
     padding: 2.4rem 3.2rem 3.2rem 3.2rem;
   }
 
@@ -193,7 +193,7 @@
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .diets {
+  .topics {
     grid-column: 1 / -1;
     justify-self: center;
   }
@@ -202,7 +202,7 @@
     margin-bottom: 4.8rem;
   }
 
-  .pricing-plan {
+  .tools-plan {
     width: 100%;
   }
 
@@ -322,11 +322,11 @@
   margin-right: 1.6rem;
 }
 
-.no-flexbox-gap .meal-attribute:not(:last-child) {
+.no-flexbox-gap .problogs-attribute:not(:last-child) {
   margin-bottom: 2rem;
 }
 
-.no-flexbox-gap .meal-icon {
+.no-flexbox-gap .problogs-icon {
   margin-right: 1.6rem;
 }
 
