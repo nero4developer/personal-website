@@ -2,3 +2,5 @@ User-Agent: *
 Disallow: 
 Disallow: /resume.pdf
 Disallow: /projects.html
+
+Sitemap: https://neroshana.com/sitemap.xml
