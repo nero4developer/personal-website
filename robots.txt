@@ -2,5 +2,6 @@ User-Agent: *
 Disallow: 
 Disallow: /resume.pdf
 Disallow: /projects.html
+Disallow: /light-house-report.html
 
 Sitemap: https://neroshana.com/sitemap.xml
